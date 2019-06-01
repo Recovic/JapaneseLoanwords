@@ -1,0 +1,101 @@
+en	ja	predict
+site	サイト	site 
+leader	リーダー	leader 
+kitchen	キッチン	
+coach	コーチ	
+second	セカンド	
+social	ソーシャル	<sociall> <sociale> social 
+nickel	ニッケル	<nickell> nickel 
+suspense	サスペンス	suspense 
+crayon	クレヨン	
+collage	コラージュ	collage 
+bathrobe	バスローブ	
+sera	セラ	sera 
+turtleneck	タートルネック	
+guilder	ギルダー	guilder 
+muni	ムニ	muni 
+botulinus	ボツリヌス	
+aeon	イオン	
+bros	ブロス	<brost> bros 
+nipple	ニップル	nipple 
+clad	クラッド	<clady> 
+announcement	アナウンスメント	
+workaholic	ワーカホリック	
+ephedra	エフェドラ	ephedra 
+abaglione	ザバイオーネ	
+signa	シグナ	signa 
+monoamine	モノアミン	monoamine 
+ragout	ラグー	
+leucocoryne	リューココリネ	
+andarat	アンダーラート	
+ingly	キングリー	
+stentless	ステントレス	
+derma	ダーマ	derma 
+choke	チョーク	choke 
+butadiene	ブタジエン	
+zuppa	ズッパ	
+rhenium	レニウム	
+hats	ザッツ	
+shuba	シューバ	shuba 
+monopole	モノポール	monopole 
+luge	リュージュ	luge 
+npec	アンペック	
+cannelloni	カネロニ	
+calipers	カリパス	
+clenbuterol	クレンブテロール	<clenbuterole> clenbuterol 
+drypoint	ドライポイント	drypoint 
+brava	ブラバ	brava 
+peregrinus	ペレグリヌス	<peregrinuse> peregrinus 
+adoptive	アダプティブ	adoptive 
+alister	アリスター	alister 
+blechley	ブレックリー	
+calif	カリフ	calif 
+cappella	カペラ	
+chunnel	チャネル	
+clive	クライブ	clive 
+coia	コーヤ	
+crash	クラッシュ	crash 
+critz	カイツ	
+crystals	クリスタルズ	
+daile	デール	daile 
+damoose	ドムス	
+delegate	デリゲート	
+derrow	ドエロ	
+diggers	ディガーズ	
+dim	ディム	<dime> dim 
+dorais	ダーエ	
+dorroh	ドロー	
+dutch	ダッチ	
+flyer	フライアー	flyer 
+freud	フロイド	freud 
+geddie	ジェディ	
+hanukkah	ハナコ	
+hautala	ホタルイ	hautala 
+hearth	ハース	hearth 
+heidi	ハイディ	heidi 
+historic	ヒストリック	<historick> <historich> <historict> <historics> 
+jupiter	ジュピター	jupiter 
+kartes	カーツ	
+keaney	キニー	
+kylie	カイリー	kylie 
+larner	ラーナー	larner 
+laycock	ラコック	laycock 
+lerach	レリク	
+liquors	リカーズ	
+mackall	マカル	
+majeure	モジュア	
+marcille	ナーシル	
+mcafee	マカフィー	
+mccuvey	マカビ	
+mire	マイア	
+murff	マーフ	
+napoli	ナポリ	napoli 
+nolt	ノルト	
+philomena	フィロミナ	
+phobia	フォビア	phobia 
+prozac	プロザック	<prozach> <prozact> <prozack> <prozacs> 
+raiser	レーザー	raiser 
+rood	ルード	
+roop	ループ	<roopl> <roope> roop 
+rozzi	ラジー	
+sammie	サミー	

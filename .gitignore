@@ -1,0 +1,7 @@
+*.model
+*.dump
+.idea
+__pycache__
+corpus
+model
+classify/train.model
